@@ -44,3 +44,6 @@ The valid limits for WP and WM are:
 -1/e <= x <= +inf   (WP)
 
 -1/e <= x < 0   (WM)
+
+## License
+This software is released into the Public Domain.
