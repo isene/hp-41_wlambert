@@ -1,4 +1,10 @@
 # hp-41_wlambert
+
+[![HP-41](https://img.shields.io/badge/HP--41-Calculator-orange)](https://en.wikipedia.org/wiki/HP-41C)
+[![License](https://img.shields.io/badge/License-Public%20Domain-brightgreen.svg)](https://unlicense.org/)
+[![GitHub stars](https://img.shields.io/github/stars/isene/hp-41_wlambert.svg)](https://github.com/isene/hp-41_wlambert/stargazers)
+[![Stay Amazing](https://img.shields.io/badge/Stay-Amazing-blue.svg)](https://isene.org)
+
 ## HP-41: This program calculates the W Lambert function
 
 The program originated from over at the HP Forum, were I sought a solution to the equation "b=(a^x)/x" solved for x. This cannot be done without resorting to the W Lambert function.
